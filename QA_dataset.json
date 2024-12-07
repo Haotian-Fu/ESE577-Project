@@ -1,0 +1,638 @@
+[
+    {
+        "question": "What is the title of this course?  ",
+        "answer": "ESE 577 \u2014 Deep Learning: Algorithms and Software."
+    },
+    {
+        "question": "Who is the instructor of this course?  ",
+        "answer": "Jorge Mendez-Mendez."
+    },
+    {
+        "question": "In which semester is this course being offered?  ",
+        "answer": "It\u2019s offered in the Fall 2024 semester."
+    },
+    {
+        "question": "When are the lectures held?  ",
+        "answer": "The lectures are held on Thursdays, from 6:30 pm to 9:20 pm."
+    },
+    {
+        "question": "Where are the lectures held?  ",
+        "answer": "The lectures are held in Frey Hall 216."
+    },
+    {
+        "question": "Is attendance mandatory for the lectures?  ",
+        "answer": "Yes, attendance is mandatory."
+    },
+    {
+        "question": "What happens during the recitation portion of the lecture?  ",
+        "answer": "Exercises are done on the whiteboard, and some Python coding is included."
+    },
+    {
+        "question": "What is the purpose of the recitation?  ",
+        "answer": "To alleviate the challenge of a 3-hour lecture and reinforce concepts through practical exercises."
+    },
+    {
+        "question": "Where are the instructor\u2019s office hours held?  ",
+        "answer": "It is held in Light Engineering Building, Room 145."
+    },
+    {
+        "question": "When are the office hours for this course?  ",
+        "answer": "It is on Mondays and Wednesdays, from 3:00 pm to 5:00 pm."
+    },
+    {
+        "question": "What is the primary focus of this course?  ",
+        "answer": "The course focuses on introducing deep learning, which uses neural networks to extract layered high-level representations of data to maximize task performance."
+    },
+    {
+        "question": "Can you give me some examples of applications to deep learning?  ",
+        "answer": "Speech recognition, image classification, and autonomous driving."
+    },
+    {
+        "question": "What topics are covered in this course?  ",
+        "answer": "The course covers basic neural networks, convolutional and recurrent network structures, deep unsupervised and reinforcement learning."
+    },
+    {
+        "question": "How are the classes structured in this course?  ",
+        "answer": "Classes are a mix of short lectures, tutorials, hands-on problem solving, and group project work."
+    },
+    {
+        "question": "How many credits is this course worth?  ",
+        "answer": "The course is worth 3 credits."
+    },
+    {
+        "question": "What grading system is used for this course?  ",
+        "answer": "The course uses the ABCF grading system."
+    },
+    {
+        "question": "Does this course include lectures about unsupervised learning and reinforcement learning?  ",
+        "answer": "Yes, the course includes unsupervised learning and reinforcement learning."
+    },
+    {
+        "question": "What topics are covered in the first week of the course?  ",
+        "answer": "The first week covers an introduction to machine learning, regression, and regularization."
+    },
+    {
+        "question": "When is gradient descent discussed in the course?  ",
+        "answer": "Gradient descent is discussed on 09/05."
+    },
+    {
+        "question": "What is the focus of the class on 09/12?  ",
+        "answer": "The focus is on logistic regression."
+    },
+    {
+        "question": "What will students learn about on 09/26?  ",
+        "answer": "Students will learn about neural networks, specifically multi-layer perceptron and back propagation."
+    },
+    {
+        "question": "What content is introduced on 10/03?  ",
+        "answer": "Convolutional neural networks (CNNs) are introduced on 10/03."
+    },
+    {
+        "question": "What are some modern neural network techniques discussed on 10/10?  ",
+        "answer": "Techniques include early stopping, dropout, batch normalization, and skip connections."
+    },
+    {
+        "question": "What topic is covered on 10/24?  ",
+        "answer": "Transformers are covered on 10/24."
+    },
+    {
+        "question": "Does the topic include Transformers in this course?  ",
+        "answer": "Yes, Transformers are covered in this course."
+    },
+    {
+        "question": "When is reinforcement learning first introduced in the course?  ",
+        "answer": "Reinforcement learning is introduced on 11/14."
+    },
+    {
+        "question": "What happens during the week of Thanksgiving (11/28)?  ",
+        "answer": "There are no classes due to Thanksgiving break."
+    },
+    {
+        "question": "Are there any classes during the week of Thanksgiving (11/28)?  ",
+        "answer": "No, there are no classes since it\u2019s the break."
+    },
+    {
+        "question": "What is the final topic discussed in the course?  ",
+        "answer": "The final topic is \"The future of deep learning,\" covered on 12/05."
+    },
+    {
+        "question": "Is the lecture schedule fixed throughout the course?  ",
+        "answer": "No, the schedule is tentative and subject to change."
+    },
+    {
+        "question": "Which edition of \"Deep Learning with Python\" is recommended for this course?",
+        "answer": "The 2nd edition of \"Deep Learning with Python\" by Francois Chollet"
+    },
+    {
+        "question": "Who are the authors of \"Deep Learning with PyTorch\"?",
+        "answer": "Eli Stevens, Luca Antiga, and Thomas Viehmann."
+    },
+    {
+        "question": "Which book by Andrew Glassner is recommended for ESE 577?",
+        "answer": "\"Deep Learning: A Visual Approach.\""
+    },
+    {
+        "question": "Is \"Deep Learning\" by Ian Goodfellow recommended for this course?",
+        "answer": "Yes, \"Deep Learning\" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville is recommended."
+    },
+    {
+        "question": "What is one suggested way for students to supplement the course materials?",
+        "answer": "Students are encouraged to browse blogs and tutorials for additional learning resources."
+    },
+    {
+        "question": "Are online resources recommended for learning deep learning topics?",
+        "answer": "Yes, students are encouraged to explore blogs and tutorials online for additional material."
+    },
+    {
+        "question": "Can \"Deep Learning with PyTorch\" be helpful for hands-on coding in the course?",
+        "answer": "Yes, it provides practical guidance for using PyTorch."
+    },
+    {
+        "question": "Is \"Deep Learning with Python\" written by a key figure in the deep learning community?",
+        "answer": "Yes, Francois Chollet, the author, is also the creator of the Keras framework"
+    },
+    {
+        "question": "Should students rely only on textbooks for learning deep learning in this course?",
+        "answer": "No, students are also encouraged to explore blogs and online tutorials."
+    },
+    {
+        "question": "How many books are explicitly recommended for ESE 577?",
+        "answer": "Four books are explicitly recommended."
+    },
+    {
+        "question": "How many quizzes are there in total for this course?",
+        "answer": "There are 14 quizzes in total."
+    },
+    {
+        "question": "How many quiz grades will be counted towards the final grade?",
+        "answer": "The best 10 quiz grades will be counted."
+    },
+    {
+        "question": "What percentage of the grade is allocated to quizzes?",
+        "answer": "Quizzes contribute 10% to the overall grade."
+    },
+    {
+        "question": "What percentage of the course grade comes from homework?",
+        "answer": "Homework is worth 20% of the overall grade."
+    },
+    {
+        "question": "How many homework assignments can students expect?",
+        "answer": "There are approximately 10 homework assignments."
+    },
+    {
+        "question": "What is the weight of the final project in the overall grading?",
+        "answer": "The final project is worth 20% of the total grade."
+    },
+    {
+        "question": "What percentage of the grade is allocated to the midterm exam?",
+        "answer": "The midterm exam is worth 20% of the total grade."
+    },
+    {
+        "question": "How much does the final exam contribute to the overall grade?",
+        "answer": "The final exam contributes 30% to the overall grade."
+    },
+    {
+        "question": "What is the penalty for late homework submissions?",
+        "answer": "The penalty is 20% per day."
+    },
+    {
+        "question": "How many one-day extensions are granted to students for homework?",
+        "answer": "Each student is granted three automatic one-day extensions."
+    },
+    {
+        "question": "When does the 20% penalty for late homework apply?",
+        "answer": "The penalty is applied at midnight immediately after the assignment deadline."
+    },
+    {
+        "question": "Are students allowed to collaborate on homework assignments?",
+        "answer": "Yes, students can discuss problems with one peer, but must write their own code and solutions."
+    },
+    {
+        "question": "What must students include at the top of their homework write-up if they discuss it with a peer?",
+        "answer": "They must list the name of the peer they discussed the assignment with."
+    },
+    {
+        "question": "How much is the project worth compared to homework assignments?",
+        "answer": "The project is also worth 20%, similar to the homework portion."
+    },
+    {
+        "question": "Is attendance mandatory for quizzes?",
+        "answer": "Yes, as quizzes are held at the end of each class."
+    },
+    {
+        "question": "How many quiz grades will be dropped?",
+        "answer": "Four quiz grades will be dropped, as only the best 10 out of 14 are counted."
+    },
+    {
+        "question": "Where is the Student Accessibility Support Center located?",
+        "answer": "It is located at Stony Brook Union Suite 107."
+    },
+    {
+        "question": "What is the contact number for the Student Accessibility Support Center?",
+        "answer": "The contact number is (631) 632-6748."
+    },
+    {
+        "question": "What email address should students use to contact the Student Accessibility Support Center?",
+        "answer": "The email address is sasc@stonybrook.edu."
+    },
+    {
+        "question": "What should students with disabilities do to receive accommodations?",
+        "answer": "They should contact the Student Accessibility Support Center to determine necessary accommodations."
+    },
+    {
+        "question": "Are accommodations determined by the professor or the Student Accessibility Support Center?",
+        "answer": "The accommodations are determined by the Student Accessibility Support Center."
+    },
+    {
+        "question": "Is information provided to the Student Accessibility Support Center kept confidential?",
+        "answer": "Yes, all information and documentation are kept confidential."
+    },
+    {
+        "question": "What should students do if they require assistance during emergency evacuation?",
+        "answer": "They are encouraged to discuss their needs with their professors and the Student Accessibility Support Center."
+    },
+    {
+        "question": "Where can students find procedures and information about emergency evacuation for individuals with disabilities?",
+        "answer": "On the Stony Brook Environmental Health and Safety website."
+    },
+    {
+        "question": "What is the website for emergency evacuation procedures for students with disabilities?",
+        "answer": "https://ehs.stonybrook.edu/programs/fire-safety/emergency-evacuation/evacuation-guide-disabilities"
+    },
+    {
+        "question": "What type of disabilities can be supported through accommodations?",
+        "answer": "Physical, psychological, medical, or learning disabilities."
+    },
+    {
+        "question": "Are students required to pursue their academic goals honestly?",
+        "answer": "Yes, each student must pursue their academic goals honestly."
+    },
+    {
+        "question": "Who is responsible for the work submitted by each student?",
+        "answer": "Each student is personally accountable for their own work."
+    },
+    {
+        "question": "What must faculty do if they suspect academic dishonesty?",
+        "answer": "Faculty must report suspected instances of academic dishonesty to the Academic Judiciary."
+    },
+    {
+        "question": "Where can students find more information about academic integrity?",
+        "answer": "On the Stony Brook academic integrity website."
+    },
+    {
+        "question": "What is the website for comprehensive information on academic integrity?",
+        "answer": "http://www.stonybrook.edu/commcms/academic_integrity/index.html"
+    },
+    {
+        "question": "Are Health Sciences Center faculty required to follow specific procedures for academic dishonesty?",
+        "answer": "Yes, they must follow their school-specific procedures."
+    },
+    {
+        "question": "Does the academic integrity policy apply to all submitted work?",
+        "answer": "Yes, it applies to all quizzes, assignments, projects, and exams."
+    },
+    {
+        "question": "What should students do if they are unsure about what constitutes academic dishonesty?",
+        "answer": "Refer to the academic integrity website for more comprehensive information."
+    },
+    {
+        "question": "Can academic dishonesty be reported outside the academic setting?",
+        "answer": "Faculty is specifically required to report academic dishonesty within the academic setting."
+    },
+    {
+        "question": "What does Stony Brook University expect from students in terms of behavior?",
+        "answer": "Students are expected to respect the rights, privileges, and property of others."
+    },
+    {
+        "question": "What are faculty required to do if there is disruptive behavior?",
+        "answer": "Faculty must report disruptive behavior to the Office of Student Conduct and Community Standards."
+    },
+    {
+        "question": "What constitutes disruptive behavior?",
+        "answer": "Behavior that interrupts teaching, compromises safety, or inhibits learning is considered disruptive."
+    },
+    {
+        "question": "Are faculty in the HSC Schools required to follow school-specific procedures for disruptive behavior?",
+        "answer": "Yes, they must follow their school-specific procedures."
+    },
+    {
+        "question": "Who handles incidents of disruptive behavior at Stony Brook?",
+        "answer": "The Office of Student Conduct and Community Standards."
+    },
+    {
+        "question": "Is respecting the learning environment a requirement for students?",
+        "answer": "Yes, students must respect the safety and integrity of the learning environment."
+    },
+    {
+        "question": "Can disruptive behavior be reported even if it does not involve academic dishonesty?",
+        "answer": "Yes, disruptive behavior that affects teaching and learning must also be reported."
+    },
+    {
+        "question": "Where can students find more information about academic matters?",
+        "answer": "In the Undergraduate Bulletin, Undergraduate Class Schedule, and Faculty-Employee Handbook."
+    },
+    {
+        "question": "What document outlines the expectations for student conduct?",
+        "answer": "The Critical Incident Management policy outlines these expectations."
+    },
+    {
+        "question": "What happens if a student compromises the safety of the learning environment?",
+        "answer": "Faculty are required to report such incidents to the appropriate office."
+    },
+    {
+        "question": "What handbook can faculty refer to for academic matters?",
+        "answer": "The Faculty-Employee Handbook."
+    },
+    {
+        "question": "What office should be contacted for issues with student conduct?",
+        "answer": "The Office of Student Conduct and Community Standards."
+    },
+    {
+        "question": "Is compromising the learning environment taken seriously by the university?",
+        "answer": "Yes, it is reported and managed according to university policies."
+    },
+    {
+        "question": "Can students with learning disabilities receive special accommodations during exams?",
+        "answer": "Yes, they need to contact the Student Accessibility Support Center."
+    },
+    {
+        "question": "How does the course handle late submissions differently from regular grading?",
+        "answer": "A 20% penalty per day is applied, but students have three one-day extensions."
+    },
+    {
+        "question": "Who should a student list at the top of their homework if they collaborated?",
+        "answer": "The name of the peer with whom they discussed the assignment."
+    },
+    {
+        "question": "Are the recommended books for ESE 577 focused solely on theory?",
+        "answer": "No, they include practical guides and visual approaches to deep learning."
+    },
+    {
+        "question": "Does the course encourage independent or collaborative work for homework?",
+        "answer": "Students are encouraged to discuss with one peer but must complete their own work."
+    },
+    {
+        "question": "Where can students find evacuation procedures for students with disabilities?",
+        "answer": "On the Stony Brook Environmental Health and Safety website."
+    },
+    {
+        "question": "How much does the final project contribute compared to the quizzes?",
+        "answer": "The final project contributes 20%, while quizzes contribute 10%."
+    },
+    {
+        "question": "Can faculty ignore instances of academic dishonesty?",
+        "answer": "No, they are required to report any suspected instances."
+    },
+    {
+        "question": "What role does the Office of Student Conduct and Community Standards play?",
+        "answer": "It handles reports of disruptive behavior affecting teaching and learning."
+    },
+    {
+        "question": "Is \"Markov decision processes (MDPs)\" included in this course?",
+        "answer": "Yes, it is included."
+    },
+    {
+        "question": "How will the quiz grades be calculated?",
+        "answer": "Only the best 10 quiz grades will be counted for each student."
+    },
+    {
+        "question": "What percentage of the final grade is determined by the midterm?",
+        "answer": "The midterm will account for 20% of the final grade."
+    },
+    {
+        "question": "What portion of the grade is assigned to quizzes?",
+        "answer": "Quizzes account for 10% of the overall grade."
+    },
+    {
+        "question": "What is the contact number for the Student Accessibility Support Center?",
+        "answer": "The contact number is (631) 632-6748."
+    },
+    {
+        "question": "What is the main emphasis of this course?",
+        "answer": "The course emphasizes introducing deep learning, utilizing neural networks to derive layered high-level data representations to enhance task performance."
+    },
+    {
+        "question": "How does the course handle late submissions differently from regular grading?",
+        "answer": "A 20% penalty is imposed per day for late submissions, but students are granted three one-day extensions."
+    },
+    {
+        "question": "Can 'Deep Learning with PyTorch' assist with hands-on coding in the course?",
+        "answer": "Yes, it offers practical guidance on using PyTorch."
+    },
+    {
+        "question": "What grading system does this course use?",
+        "answer": "The ABCF grading system is used for this course."
+    },
+    {
+        "question": "What is the weight of the final project in the overall grading?",
+        "answer": "The final project accounts for 20% of the total grade."
+    },
+    {
+        "question": "Are unsupervised learning and reinforcement learning covered in this course?",
+        "answer": "Yes, unsupervised learning and reinforcement learning are included in the course."
+    },
+    {
+        "question": "What is the goal of the recitation sessions?",
+        "answer": "To reduce the difficulty of a 3-hour lecture and strengthen understanding through hands-on exercises."
+    },
+    {
+        "question": "Where are the lectures conducted?",
+        "answer": "Lectures are conducted in Frey Hall, Room 216."
+    },
+    {
+        "question": "What percentage of the course grade is based on homework?",
+        "answer": "Homework constitutes 20% of the overall grade."
+    },
+    {
+        "question": "Who holds responsibility for the work submitted by each student?",
+        "answer": "Each student is personally accountable for their own work."
+    },
+    {
+        "question": "Who wrote 'Deep Learning with PyTorch'?",
+        "answer": "Eli Stevens, Luca Antiga, and Thomas Viehmann."
+    },
+    {
+        "question": "What is the phone number for the Student Accessibility Support Center?",
+        "answer": "The contact number is (631) 632-6748."
+    },
+    {
+        "question": "How much does the final exam contribute to the overall grade?",
+        "answer": "The final exam contributes 30% to the overall grade."
+    },
+    {
+        "question": "Are online resources advised for studying deep learning topics?",
+        "answer": "Yes, students are encouraged to utilize blogs and online tutorials as supplementary materials."
+    },
+    {
+        "question": "Where can students find the Student Accessibility Support Center?",
+        "answer": "It is located at Stony Brook Union, Suite 107."
+    },
+    {
+        "question": "Is 'Deep Learning' by Ian Goodfellow suggested for this course?",
+        "answer": "Yes, 'Deep Learning' by Ian Goodfellow, Yoshua Bengio, and Aaron Courville is recommended."
+    },
+    {
+        "question": "What is the last subject covered in the course?",
+        "answer": "The final topic is 'The future of deep learning,' discussed on December 5th."
+    },
+    {
+        "question": "What percentage of the final grade is determined by the midterm exam?",
+        "answer": "The midterm exam accounts for 20% of the final grade."
+    },
+    {
+        "question": "What document outlines the expectations for student conduct?",
+        "answer": "The Critical Incident Management policy outlines these expectations."
+    },
+    {
+        "question": "How many homework assignments will be given to students?",
+        "answer": "Students can expect around 10 homework assignments."
+    },
+    {
+        "question": "What is the name of this course?",
+        "answer": "ESE 577 — Deep Learning: Algorithms and Software."
+    },
+    {
+        "question": "How many one-day extensions can students obtain for homework?",
+        "answer": "Each student is allowed three automatic one-day extensions for homework."
+    },
+    {
+        "question": "How does the project's weight compare to that of homework assignments?",
+        "answer": "The project is worth 20%, similar to the homework portion."
+    },
+    {
+        "question": "Who decides the accommodations for students with disabilities, the professor or the Student Accessibility Support Center?",
+        "answer": "The Student Accessibility Support Center determines the accommodations."
+    },
+    {
+        "question": "What behavior does Stony Brook University expect from students?",
+        "answer": "Students are expected to respect the rights, privileges, and property of others."
+    },
+    {
+        "question": "What percentage of the grade is allocated to quizzes?",
+        "answer": "Quizzes account for 10% of the overall grade."
+    },
+    {
+        "question": "Can students collaborate on homework assignments?",
+        "answer": "Yes, students may discuss problems with one peer but must complete their own code and solutions."
+    },
+    {
+        "question": "What is the contact number for the Student Accessibility Support Center?",
+        "answer": "The contact number is (631) 632-6748."
+    },
+    {
+        "question": "What should students do if they are unclear about what constitutes academic dishonesty?",
+        "answer": "Refer to the academic integrity website for more detailed information."
+    },
+    {
+        "question": "What should students do if they need help during an emergency evacuation?",
+        "answer": "They should discuss their needs with their professors and the Student Accessibility Support Center."
+    },
+    {
+        "question": "Can 'Deep Learning with PyTorch' be helpful for hands-on coding in the course?",
+        "answer": "Yes, it provides practical guidance for using PyTorch."
+    },
+    {
+        "question": "Who is teaching this course?",
+        "answer": "Jorge Mendez-Mendez."
+    },
+    {
+        "question": "Are students required to pursue their academic goals with integrity?",
+        "answer": "Yes, each student must pursue their academic goals honestly."
+    },
+    {
+        "question": "What is the website for emergency evacuation procedures for students with disabilities?",
+        "answer": "https://ehs.stonybrook.edu/programs/fire-safety/emergency-evacuation/evacuation-guide-disabilities"
+    },
+    {
+        "question": "What is the email address should students use to contact the Student Accessibility Support Center?",
+        "answer": "The email address is sasc@stonybrook.edu."
+    },
+    {
+        "question": "What topic is emphasized in the class on September 12th?",
+        "answer": "Logistic regression is the focus of the September 12th class."
+    },
+    {
+        "question": "Where can students access evacuation procedures for students with disabilities?",
+        "answer": "On the Stony Brook Environmental Health and Safety website."
+    },
+    {
+        "question": "Are Health Sciences Center faculty required to follow specific procedures for academic dishonesty?",
+        "answer": "Yes, they must follow their school-specific procedures."
+    },
+    {
+        "question": "Is attendance compulsory for quizzes?",
+        "answer": "Yes, attendance is mandatory as quizzes are conducted at the end of each class."
+    },
+    {
+        "question": "Who are the authors of 'Deep Learning with PyTorch'?",
+        "answer": "Eli Stevens, Luca Antiga, and Thomas Viehmann."
+    },
+    {
+        "question": "Can 'Deep Learning with Python' assist with practical coding in this course?",
+        "answer": "Yes, it offers practical guidance on using PyTorch."
+    },
+    {
+        "question": "What role does the Office of Student Conduct and Community Standards play?",
+        "answer": "It manages reports of disruptive behavior that affect teaching and learning."
+    },
+    {
+        "question": "Is 'Deep Learning' by Ian Goodfellow recommended for this course?",
+        "answer": "Yes, 'Deep Learning' by Ian Goodfellow, Yoshua Bengio, and Aaron Courville is recommended."
+    },
+    {
+        "question": "Does the course promote independent or collaborative work for homework?",
+        "answer": "Students are encouraged to discuss with one peer but must finish their own work."
+    },
+    {
+        "question": "How many quizzes are there in total for this course?",
+        "answer": "There are 14 quizzes in total."
+    },
+    {
+        "question": "Are students required to attend the lectures?",
+        "answer": "Yes, attending lectures is compulsory."
+    },
+    {
+        "question": "Are online resources recommended for learning deep learning topics?",
+        "answer": "Yes, students are encouraged to utilize blogs and online tutorials as supplementary materials."
+    },
+    {
+        "question": "What is one suggested way for students to supplement the course materials?",
+        "answer": "Students are encouraged to explore blogs and tutorials for extra learning resources."
+    },
+    {
+        "question": "Is 'Deep Learning with Python' authored by a prominent figure in deep learning?",
+        "answer": "Yes, Francois Chollet, the author, is also the creator of the Keras framework."
+    },
+    {
+        "question": "What type of disabilities can be supported through accommodations?",
+        "answer": "Physical, psychological, medical, or learning disabilities can be accommodated."
+    },
+    {
+        "question": "What should students include at the top of their homework write-up if they collaborate with a peer?",
+        "answer": "They must include the name of the peer they discussed the assignment with."
+    },
+    {
+        "question": "How are quiz grades determined?",
+        "answer": "Only the top 10 quiz grades are counted for each student."
+    },
+    {
+        "question": "What handbook can faculty consult for academic matters?",
+        "answer": "The Faculty-Employee Handbook."
+    },
+    {
+        "question": "Does the academic integrity policy apply to all submitted work?",
+        "answer": "Yes, it applies to all quizzes, assignments, projects, and exams."
+    },
+    {
+        "question": "Are students permitted to collaborate on homework assignments?",
+        "answer": "Yes, students may discuss problems with one peer but must complete their own code and solutions."
+    },
+    {
+        "question": "What is the role of the Office of Student Conduct and Community Standards?",
+        "answer": "It manages reports of disruptive behavior that affect teaching and learning."
+    },
+    {
+        "question": "Is 'Markov decision processes (MDPs)' part of this course?",
+        "answer": "Yes, they are included."
+    }
+]

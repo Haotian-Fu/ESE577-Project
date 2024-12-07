@@ -1,0 +1,124 @@
+{
+    "base_model": [
+        {
+            "question": "How does the course handle late submissions differently from regular grading?",
+            "reference_answer": "A 20% penalty per day is applied, but students have three one-day extensions.",
+            "generated_answer": "[INST] How does the course handle late submissions differently from regular grading? [/INST] In the context of a specific course, the handling of late submissions can vary depending on the policies set by the instructor. Here are some common ways that late submissions may be handled differently from regular grading:\n\n1. Penalties: Late submissions may be penalized by deducting points from the final grade. The amount of points deducted can depend on",
+            "rouge_scores": {
+                "rouge1": {
+                    "precision": 0.027777777777777776,
+                    "recall": 0.14285714285714285,
+                    "fmeasure": 0.046511627906976744
+                },
+                "rouge2": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "fmeasure": 0.0
+                },
+                "rougeL": {
+                    "precision": 0.027777777777777776,
+                    "recall": 0.14285714285714285,
+                    "fmeasure": 0.046511627906976744
+                }
+            },
+            "bleu_score": 0,
+            "bertscore_f1": 0.8306879997253418
+        },
+        {
+            "question": "Is 'Markov decision processes (MDPs)' part of this course?",
+            "reference_answer": "Yes, they are included.",
+            "generated_answer": "[INST] Is 'Markov decision processes (MDPs)' part of this course? [/INST] Yes, Markov Decision Processes (MDPs) are a significant topic in the field of Reinforcement Learning, which is a subfield of Machine Learning and Artificial Intelligence. MDPs are a mathematical framework for modeling decision making in situations where outcomes are uncertain. They are an extension of Markov processes, which model random processes that have the Markov property.",
+            "rouge_scores": {
+                "rouge1": {
+                    "precision": 0.04477611940298507,
+                    "recall": 0.75,
+                    "fmeasure": 0.08450704225352113
+                },
+                "rouge2": {
+                    "precision": 0.015151515151515152,
+                    "recall": 0.3333333333333333,
+                    "fmeasure": 0.028985507246376812
+                },
+                "rougeL": {
+                    "precision": 0.04477611940298507,
+                    "recall": 0.75,
+                    "fmeasure": 0.08450704225352113
+                }
+            },
+            "bleu_score": 0.00563777415489041,
+            "bertscore_f1": 0.8231531977653503
+        },
+        {
+            "question": "What is the focus of ESE 577?",
+            "reference_answer": "The focus of ESE 577 is on deep learning algorithms and their applications.",
+            "generated_answer": "[INST] What is the focus of ESE 577? [/INST] ESE 577, which is short for \"Electrical and Systems Engineering 577,\" is a graduate-level course offered in the Electrical and Systems Engineering (ESE) department at some universities. The focus of this course can vary depending on the specific institution and the instructor teaching it. However, based on the titles of similar courses offered at various universities, it",
+            "rouge_scores": {
+                "rouge1": {
+                    "precision": 0.11940298507462686,
+                    "recall": 0.6153846153846154,
+                    "fmeasure": 0.19999999999999998
+                },
+                "rouge2": {
+                    "precision": 0.07575757575757576,
+                    "recall": 0.4166666666666667,
+                    "fmeasure": 0.12820512820512822
+                },
+                "rougeL": {
+                    "precision": 0.11940298507462686,
+                    "recall": 0.6153846153846154,
+                    "fmeasure": 0.19999999999999998
+                }
+            },
+            "bleu_score": 0.031758678844008036,
+            "bertscore_f1": 0.8496507406234741
+        },
+        {
+            "question": "What percentage of the final grade is determined by the midterm?",
+            "reference_answer": "The midterm will account for 20% of the final grade.",
+            "generated_answer": "[INST] What percentage of the final grade is determined by the midterm? [/INST] The percentage of the final grade determined by a midterm exam can vary depending on the specific grading policies of the instructor or institution. Some professors may weight the midterm exam heavily, accounting for 50% or more of the final grade, while others may only assign it a 20% or 30% weighting. It's important to check with your",
+            "rouge_scores": {
+                "rouge1": {
+                    "precision": 0.125,
+                    "recall": 0.9,
+                    "fmeasure": 0.21951219512195125
+                },
+                "rouge2": {
+                    "precision": 0.07042253521126761,
+                    "recall": 0.5555555555555556,
+                    "fmeasure": 0.125
+                },
+                "rougeL": {
+                    "precision": 0.1111111111111111,
+                    "recall": 0.8,
+                    "fmeasure": 0.19512195121951217
+                }
+            },
+            "bleu_score": 0.02249179365696299,
+            "bertscore_f1": 0.8770564198493958
+        },
+        {
+            "question": "How will the quiz grades be calculated?",
+            "reference_answer": "Only the best 10 quiz grades will be counted for each student.",
+            "generated_answer": "[INST] How will the quiz grades be calculated? [/INST] The exact method for calculating quiz grades would depend on the specific details of the quiz, such as the number and types of questions, the scoring system, and any bonus or penalty points. Here are some common methods for calculating quiz grades:\n\n1. Multiple Choice or True/False Quizzes: In multiple choice or true/false quizzes, each question has a",
+            "rouge_scores": {
+                "rouge1": {
+                    "precision": 0.10144927536231885,
+                    "recall": 0.5833333333333334,
+                    "fmeasure": 0.17283950617283952
+                },
+                "rouge2": {
+                    "precision": 0.014705882352941176,
+                    "recall": 0.09090909090909091,
+                    "fmeasure": 0.025316455696202528
+                },
+                "rougeL": {
+                    "precision": 0.08695652173913043,
+                    "recall": 0.5,
+                    "fmeasure": 0.14814814814814817
+                }
+            },
+            "bleu_score": 0.013542726884128829,
+            "bertscore_f1": 0.8453848958015442
+        }
+    ]
+}

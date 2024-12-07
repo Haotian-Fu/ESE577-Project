@@ -1,0 +1,124 @@
+{
+    "fine_tuned_model": [
+        {
+            "question": "How does the course handle late submissions differently from regular grading?",
+            "reference_answer": "A 20% penalty per day is applied, but students have three one-day extensions.",
+            "generated_answer": "[INST] How does the course handle late submissions differently from regular grading? [/INST] A 20% penalty per day is applied for late submissions. However, students are allowed one free late day.",
+            "rouge_scores": {
+                "rouge1": {
+                    "precision": 0.3225806451612903,
+                    "recall": 0.7142857142857143,
+                    "fmeasure": 0.4444444444444444
+                },
+                "rouge2": {
+                    "precision": 0.2,
+                    "recall": 0.46153846153846156,
+                    "fmeasure": 0.27906976744186046
+                },
+                "rougeL": {
+                    "precision": 0.3225806451612903,
+                    "recall": 0.7142857142857143,
+                    "fmeasure": 0.4444444444444444
+                }
+            },
+            "bleu_score": 0.1535686541317235,
+            "bertscore_f1": 0.8979606032371521
+        },
+        {
+            "question": "Is 'Markov decision processes (MDPs)' part of this course?",
+            "reference_answer": "Yes, they are included.",
+            "generated_answer": "[INST] Is 'Markov decision processes (MDPs)' part of this course? [/INST] Yes, it is included.",
+            "rouge_scores": {
+                "rouge1": {
+                    "precision": 0.13333333333333333,
+                    "recall": 0.5,
+                    "fmeasure": 0.2105263157894737
+                },
+                "rouge2": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "fmeasure": 0.0
+                },
+                "rougeL": {
+                    "precision": 0.13333333333333333,
+                    "recall": 0.5,
+                    "fmeasure": 0.2105263157894737
+                }
+            },
+            "bleu_score": 0.019730657693620934,
+            "bertscore_f1": 0.8526267409324646
+        },
+        {
+            "question": "What is the focus of ESE 577?",
+            "reference_answer": "The focus of ESE 577 is on deep learning algorithms and their applications.",
+            "generated_answer": "[INST] What is the focus of ESE 577? [/INST] The course focuses on machine learning, deep learning, and reinforcement learning.",
+            "rouge_scores": {
+                "rouge1": {
+                    "precision": 0.5,
+                    "recall": 0.7692307692307693,
+                    "fmeasure": 0.6060606060606061
+                },
+                "rouge2": {
+                    "precision": 0.2631578947368421,
+                    "recall": 0.4166666666666667,
+                    "fmeasure": 0.3225806451612903
+                },
+                "rougeL": {
+                    "precision": 0.45,
+                    "recall": 0.6923076923076923,
+                    "fmeasure": 0.5454545454545455
+                }
+            },
+            "bleu_score": 0.08012711192057849,
+            "bertscore_f1": 0.9083747863769531
+        },
+        {
+            "question": "What percentage of the final grade is determined by the midterm?",
+            "reference_answer": "The midterm will account for 20% of the final grade.",
+            "generated_answer": "[INST] What percentage of the final grade is determined by the midterm? [/INST] The midterm exam accounts for 20% of the final grade.",
+            "rouge_scores": {
+                "rouge1": {
+                    "precision": 0.391304347826087,
+                    "recall": 0.9,
+                    "fmeasure": 0.5454545454545454
+                },
+                "rouge2": {
+                    "precision": 0.3181818181818182,
+                    "recall": 0.7777777777777778,
+                    "fmeasure": 0.45161290322580644
+                },
+                "rougeL": {
+                    "precision": 0.391304347826087,
+                    "recall": 0.9,
+                    "fmeasure": 0.5454545454545454
+                }
+            },
+            "bleu_score": 0.22816849039973935,
+            "bertscore_f1": 0.9166491031646729
+        },
+        {
+            "question": "How will the quiz grades be calculated?",
+            "reference_answer": "Only the best 10 quiz grades will be counted for each student.",
+            "generated_answer": "[INST] How will the quiz grades be calculated? [/INST] Only the best 10 quiz grades will be counted. If a student has fewer than 10 quizzes, all quizzes will be counted.",
+            "rouge_scores": {
+                "rouge1": {
+                    "precision": 0.3225806451612903,
+                    "recall": 0.8333333333333334,
+                    "fmeasure": 0.4651162790697674
+                },
+                "rouge2": {
+                    "precision": 0.26666666666666666,
+                    "recall": 0.7272727272727273,
+                    "fmeasure": 0.3902439024390244
+                },
+                "rougeL": {
+                    "precision": 0.3225806451612903,
+                    "recall": 0.8333333333333334,
+                    "fmeasure": 0.4651162790697674
+                }
+            },
+            "bleu_score": 0.2171788734284664,
+            "bertscore_f1": 0.9025679230690002
+        }
+    ]
+}
